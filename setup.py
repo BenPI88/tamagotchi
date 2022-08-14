@@ -3,9 +3,9 @@ import time
 os.system("clear")
 print("Tamagotchi Remade By BenPI88 (https://github.com/BenPI88)")
 input("")
-def clearscreen:
+def clearscreen():
   os.system("clear")
-clearscreen
+clearscreen()
 print("Setting Up Folders")
 dir = "~/BenPI/tamagotchi/"
 os.system("cd ~ && mkdir BenPI && cd BenPI && mkdir tamagotchi")
