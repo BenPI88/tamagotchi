@@ -1,1 +1,1 @@
-rm -rf ~/BenPI/tamagotchi && cd ~/Downloads && rm -rf tamagotchi && cd ~
+rm -rf ~/BenPI && cd ~/Downloads && rm -rf tamagotchi && cd ~
